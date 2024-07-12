@@ -1,2 +1,2 @@
 # Thailand-Household-Income-Forecasting
-To forecast Thailand Household Income, projected from year 2024 to 2033 (10 years)
+Household income in Thailand plays a crucial role in shaping the socio-economic landscape, particularly for low-income families. Accurate forecasting of household income trends can inform policies that improve housing conditions for the poverty. This research project aims to predict household income in Thailand. By using advanced forecasting methods,  this study seeks to provide insights that will aid in developing targeted interventions to enhance living standards for economically disadvantaged communities.
